@@ -176,7 +176,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "BYD Makati",
         "BYD Alabang",
         "BYD Global City",
-        "BYD Manila Bay"
+        "BYD Manila Bay",
       ],
       Luzon: [
         "BYD Sta. Rosa",
