@@ -165,37 +165,39 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Define dealer mappings by region
   const dealersByRegion = {
-    "Metro Manila/NCR": [
-      "BYD Quezon Avenue",
-      "BYD Mandaluyong",
-      "BYD Glorietta",
-      "BYD Fairview",
-      "BYD Commonwealth",
-      "BYD Chinatown",
-      "BYD Balintawak",
-      "BYD Makati",
-      "BYD Alabang",
-      "BYD Global City",
-      "BYD Manila Bay",
-    ],
-    Luzon: [
-      "BYD Sta. Rosa",
-      "BYD Pampanga",
-      "BYD Lipa",
-      "BYD Dagupan",
-      "BYD Clark",
-      "BYD Camarines Sur",
-      "BYD Cabanatuan",
-      "BYD La Union",
-    ],
-    Visayas: [
-      "BYD Mandaue, Cebu",
-      "BYD Negros",
-      "BYD Iloilo",
-      "BYD Ayala Center Cebu",
-    ],
-    Mindanao: ["BYD Gensan", "BYD Davao", "BYD Cagayan de Oro"],
-  };
+      "Metro Manila/NCR": [
+        "BYD Quezon Avenue",
+        "BYD Mandaluyong",
+        "BYD Glorietta",
+        "BYD Fairview",
+        "BYD Commonwealth",
+        "BYD Chinatown",
+        "BYD Balintawak",
+        "BYD Makati",
+        "BYD Alabang",
+        "BYD Global City",
+        "BYD Manila Bay",
+				"BYD Palawan",
+        "BYD Bacoor",
+      ],
+      Luzon: [
+        "BYD Sta. Rosa",
+        "BYD Pampanga",
+        "BYD Lipa",
+        "BYD Dagupan",
+        "BYD Clark",
+        "BYD Camarines Sur",
+        "BYD Cabanatuan",
+        "BYD La Union",
+      ],
+      Visayas: [
+        "BYD Mandaue, Cebu",
+        "BYD Negros",
+        "BYD Iloilo",
+        "BYD Ayala Center Cebu",
+      ],
+      Mindanao: ["BYD Gensan", "BYD Davao", "BYD Cagayan de Oro"],
+    };
 
   // Store all original dealer options
   // const allDealerOptions = Array.from(dealershipSelect.options).slice(1);
