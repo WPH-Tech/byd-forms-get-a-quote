@@ -207,6 +207,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "BYD Makati",
         "BYD Alabang",
         "BYD Global City",
+        "BYD Manila Bay",
       ],
       Luzon: [
         "BYD Sta. Rosa",
@@ -216,12 +217,18 @@ document.addEventListener("DOMContentLoaded", () => {
         "BYD Clark",
         "BYD Camarines Sur",
         "BYD Cabanatuan",
+        "BYD Bacoor",
+        "BYD La Union",
+        "BYD Palawan",
       ],
       Visayas: [
         "BYD Mandaue, Cebu",
         "BYD Negros",
         "BYD Iloilo",
         "BYD Ayala Center Cebu",
+        "BYD IL Corso",
+        "BYD Cebu Central",
+        
       ],
       Mindanao: ["BYD Gensan", "BYD Davao", "BYD Cagayan de Oro"],
     };
