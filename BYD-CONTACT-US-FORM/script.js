@@ -195,7 +195,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   
     // ✅ Dealer mappings by region
-    const dealersByRegion = {
+     const dealersByRegion = {
       "Metro Manila/NCR": [
         "BYD Quezon Avenue",
         "BYD Mandaluyong",
@@ -207,6 +207,9 @@ document.addEventListener("DOMContentLoaded", () => {
         "BYD Makati",
         "BYD Alabang",
         "BYD Global City",
+        "BYD Manila Bay",
+		"BYD Palawan",
+        "BYD Bacoor",
       ],
       Luzon: [
         "BYD Sta. Rosa",
@@ -216,6 +219,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "BYD Clark",
         "BYD Camarines Sur",
         "BYD Cabanatuan",
+        "BYD La Union",
       ],
       Visayas: [
         "BYD Mandaue, Cebu",
