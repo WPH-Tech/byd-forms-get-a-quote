@@ -200,9 +200,8 @@ document.addEventListener("DOMContentLoaded", () => {
       "BYD Ayala Center Cebu",
       "BYD Cebu Central",
       "BYD IL Corso",
-      "BYD Dipolog",
     ],
-    Mindanao: ["BYD Gensan", "BYD Davao", "BYD Cagayan de Oro"],
+    Mindanao: ["BYD Gensan", "BYD Davao", "BYD Cagayan de Oro", "BYD Dipolog"],
   };
 
   // Function to validate dealer selection
